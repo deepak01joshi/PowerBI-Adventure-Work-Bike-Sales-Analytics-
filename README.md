@@ -1,4 +1,5 @@
-# PowerBI-Adventure-Work-Bike-Sales-Analytics-
+# PowerBI-Adventure-Work-Bike-Sales-Analytics
+
 🔹 Project Overview
 
 This project analyzes e-commerce sales performance using interactive Power BI dashboards to monitor revenue, product trends, customer behavior, and business KPIs.
